@@ -1,0 +1,293 @@
+region,country,state_province,city,address,full_address,location,latitude,longitude
+Africa,Morocco,,Casablanca - Casanearshore,"Casablanca Nearshore ParkBuilding Shore 5, 2ème étage, Casablanca","Casablanca Nearshore ParkBuilding Shore 5, 2ème étage, Casablanca, Casablanca - Casanearshore, Morocco",,,
+Africa,Morocco,,Fès Shore Park,"Route de Sidi Harazem, Fès","Route de Sidi Harazem, Fès, Fès Shore Park, Morocco",,,
+Africa,Morocco,,Bâtiment Shore 3,"TechnopolisSala El Jadida, Rabat","TechnopolisSala El Jadida, Rabat, Bâtiment Shore 3, Morocco",,,
+Asia Pacific,Australia,Australian Capital Territory,Canberra,"Tenancy 604, Level 65 Farrell Place, Canberra, 2601","Tenancy 604, Level 65 Farrell Place, Canberra, 2601, Canberra, Australia",,,
+Asia Pacific,Australia,New South Wales,Suite G.03,"166 Epping Road,, Lane Cove West, 2066","166 Epping Road,, Lane Cove West, 2066, Suite G.03, Australia",,,
+Asia Pacific,Australia,New South Wales,North Sydney,"Suite 15.02, Level 15,100 Pacific Highway,, North Sydney, 2060","Suite 15.02, Level 15,100 Pacific Highway,, North Sydney, 2060, North Sydney, Australia",,,
+Asia Pacific,Australia,Queensland,Level 6 (Reception),"Riverside Centre123 Eagle Street, Brisbane, 4000","Riverside Centre123 Eagle Street, Brisbane, 4000, Level 6 (Reception), Australia",,,
+Asia Pacific,Australia,South Australia,Adelaide,"Lot Fourteencorner of North Terrace and, Frome Rd, Adelaide, 5000","Lot Fourteencorner of North Terrace and, Frome Rd, Adelaide, 5000, Adelaide, Australia",,,
+Asia Pacific,Australia,Tasmania,"Level 6, Reserve Bank Building,","111 Macquarie Street, Hobart, 7000","111 Macquarie Street, Hobart, 7000, Level 6, Reserve Bank Building,, Australia",,,
+Asia Pacific,Australia,Victoria,Suite 18.01,"Level 18, 40 City Road, Southbank, 3006","Level 18, 40 City Road, Southbank, 3006, Suite 18.01, Australia",,,
+Asia Pacific,India,Karnataka,Divyasree Technopolis,"124,125, Yemlur P.O.Off old Airport Road, Bangalore, 560037","124,125, Yemlur P.O.Off old Airport Road, Bangalore, 560037, Divyasree Technopolis, India",,,
+Asia Pacific,India,Karnataka,E-City,"Tower 2, #95/1 & 95/2Electronic City Phase 1 (West), Bangalore, 560100","Tower 2, #95/1 & 95/2Electronic City Phase 1 (West), Bangalore, 560100, E-City, India",,,
+Asia Pacific,India,Karnataka,Cyber Park,"Plot No. 76 & 77, Electronic City, Phase 1(west), Bangalore, 560100","Plot No. 76 & 77, Electronic City, Phase 1(west), Bangalore, 560100, Cyber Park, India",,,
+Asia Pacific,India,Maharashtra,Andheri Kurla Road,"Plot No. 22, SEEPZAndheri (East), Mumbai, 400096","Plot No. 22, SEEPZAndheri (East), Mumbai, 400096, Andheri Kurla Road, India",,,
+Asia Pacific,India,Maharashtra,CGI ISMC Pvt Ltd,"8th floor, Smartworks Co-working Spaces Private Limited Survey number AP81, 83, North Main road,  Koregoan Park Annexe,  Mundhwa, Pune, 411001","8th floor, Smartworks Co-working Spaces Private Limited Survey number AP81, 83, North Main road,  Koregoan Park Annexe,  Mundhwa, Pune, 411001, CGI ISMC Pvt Ltd, India",,,
+Asia Pacific,India,Tamil Nadu,DLF IT Park,"3rd floor, 5th Block, 1/124, Shivaji Gardens,, Chennai, 600089","3rd floor, 5th Block, 1/124, Shivaji Gardens,, Chennai, 600089, DLF IT Park, India",,,
+Asia Pacific,India,Telangana,CGI ISMC Pvt Ltd,"15th floor, North wing & South wing part, Skyview 20,  Sy.no. 83/1, Raidurgam,, Hyderabad, 500018","15th floor, North wing & South wing part, Skyview 20,  Sy.no. 83/1, Raidurgam,, Hyderabad, 500018, CGI ISMC Pvt Ltd, India",,,
+Asia Pacific,India,Telangana,DLF - Cyber City,"2nd floor, Part of Ground & 6th floor, Block 3Part of 3rd floor, Block 2, Plot no 129/132, APHB Colony, Gachibowli Village, Serilingampally Mandal, Ranga reddy Dist, Hyderabad, 500032","2nd floor, Part of Ground & 6th floor, Block 3Part of 3rd floor, Block 2, Plot no 129/132, APHB Colony, Gachibowli Village, Serilingampally Mandal, Ranga reddy Dist, Hyderabad, 500032, DLF - Cyber City, India",,,
+Asia Pacific,Malaysia,,Kuala Lumpur - Avenue 7,"Avenue 7 Bangsar South City No. 8 Jalan KerinchiLevel 5, Menara PNS Tower 7, Kuala Lumpur, 59200","Avenue 7 Bangsar South City No. 8 Jalan KerinchiLevel 5, Menara PNS Tower 7, Kuala Lumpur, 59200, Kuala Lumpur - Avenue 7, Malaysia",,,
+Asia Pacific,Philippines,Metro Manila,Ortigas: Robinsons Cyberscape Alpha,"Sapphire and Garnet Roads,Ortigas Center, Pasig City, 1605","Sapphire and Garnet Roads,Ortigas Center, Pasig City, 1605, Ortigas: Robinsons Cyberscape Alpha, Philippines",,,
+Asia Pacific,Philippines,Metro Manila,Taguig City: One World Square,"10 Upper McKinley Road, McKinley Hill2/F One World Square, Taguig City, 1634","10 Upper McKinley Road, McKinley Hill2/F One World Square, Taguig City, 1634, Taguig City: One World Square, Philippines",,,
+Europe,Belgium,,Brussels,"Airport Plaza Building C KyotoLeonardo Da Vincilaan 19C bus 6, Diegem, 1831","Airport Plaza Building C KyotoLeonardo Da Vincilaan 19C bus 6, Diegem, 1831, Brussels, Belgium",,,
+Europe,Czechia,,Brno,"Londýnské nám. 853/1, Brno, 639 00","Londýnské nám. 853/1, Brno, 639 00, Brno, Czechia","853/1, Londýnské náměstí, Brno Business Park, Štýřice, Brno, okres Brno-město, Jihomoravský kraj, Jihovýchod, 639 00, Česko",49.1717766,16.5980518
+Europe,Czechia,,OSTRAVA,"28. října 3348/65Moravská Ostrava, OSTRAVA, 702 00","28. října 3348/65Moravská Ostrava, OSTRAVA, 702 00, OSTRAVA, Czechia",,,
+Europe,Czechia,,PRAHA,"Laurinova 2800/4Praha-Stodůlky, PRAHA, 155 00","Laurinova 2800/4Praha-Stodůlky, PRAHA, 155 00, PRAHA, Czechia",,,
+Europe,Denmark,,Aarhus - Tranbjerg J,"Sletvej 30, Aarhus, 8310","Sletvej 30, Aarhus, 8310, Aarhus - Tranbjerg J, Denmark","30, Sletvej, Slet, Rosenhøj, Aarhus, Aarhus Kommune, Region Midtjylland, 8310, Danmark",56.107904,10.139459
+Europe,Denmark,,Ballerup,"Lautrupvang 4B, Ballerup, 2750","Lautrupvang 4B, Ballerup, 2750, Ballerup, Denmark","4B, Lautrupvang, Sømose Hegn, Lautrupgård, Ballerup, Ballerup Kommune, Region Hovedstaden, 2750, Danmark",55.730634,12.391405
+Europe,Denmark,,Aalborg - Nørresundby,"Strømmen 6, Nørresundby, 9400","Strømmen 6, Nørresundby, 9400, Aalborg - Nørresundby, Denmark","6, Strømmen, Nørre Uttrup, Aalborg, Aalborg Kommune, Region Nordjylland, 9400, Danmark",57.086202,9.958058
+Europe,Estonia,,Tallinn -A. H. Tammsaare tee,"A. H. Tammsaare tee 56, Tallinn, 11316","A. H. Tammsaare tee 56, Tallinn, 11316, Tallinn -A. H. Tammsaare tee, Estonia",,,
+Europe,Estonia,,Tartu - Sõbra,"Sõbra 54, Tartu, 50106","Sõbra 54, Tartu, 50106, Tartu - Sõbra, Estonia",,,
+Europe,Finland,,Espoo,"Revontulenkuja 1, Espoo, 02100","Revontulenkuja 1, Espoo, 02100, Espoo, Finland","Tapiolan Hohka, 1, Revontulenkuja, Revontuli, Tapiolan keskus, Tapiola, Suur-Tapiola, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02100, Suomi / Finland",60.1705309,24.8033678
+Europe,Finland,,Hämeenlinna,"Vankanlähde 7, Hämeenlinna, 13100","Vankanlähde 7, Hämeenlinna, 13100, Hämeenlinna, Finland","Innopark 1, 7, Vankanlähde, Visamäki, Kankaantausta, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13100, Suomi / Finland",60.9760394,24.4783404
+Europe,Finland,,Helsinki - Karvaamokuja,"Karvaamokuja 2PL 38, Helsinki, 00381","Karvaamokuja 2PL 38, Helsinki, 00381, Helsinki - Karvaamokuja, Finland",,,
+Europe,Finland,,Helsinki - Päijänteentie,"Päijänteentie 14 A, Helsinki, 00380","Päijänteentie 14 A, Helsinki, 00380, Helsinki - Päijänteentie, Finland",,,
+Europe,Finland,,Joensuu,"Länsikatu 15PL 321, Joensuu, 80110","Länsikatu 15PL 321, Joensuu, 80110, Joensuu, Finland",,,
+Europe,Finland,,Jyväskylä,"Ohjelmakaari 10, Jyväskylä, 40500","Ohjelmakaari 10, Jyväskylä, 40500, Jyväskylä, Finland","10, Ohjelmakaari, Ylistönmäki, Ristonmaa, Kuokkala, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40500, Suomi / Finland",62.2273669,25.7438014
+Europe,Finland,,Kuopio,"Microkatu 1PL 1199, Kuopio, 70211","Microkatu 1PL 1199, Kuopio, 70211, Kuopio, Finland",,,
+Europe,Finland,,Lahti,"Askonkatu 9 G, Lahti, 15100","Askonkatu 9 G, Lahti, 15100, Lahti, Finland","Askonkatu, Keski-Lahti, Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 15100, Suomi / Finland",60.9768754,25.664209
+Europe,Finland,,Lappeenranta,"Kauppakatu 40 D, Lappeenranta, 53100","Kauppakatu 40 D, Lappeenranta, 53100, Lappeenranta, Finland","Kauppakatu, Kiviharju, Tykki-Kiviharju, Lappeenranta, Lappeenrannan seutukunta, Etelä-Karjala, Manner-Suomi, 53100, Suomi / Finland",61.0547136,28.189953
+Europe,Finland,,Oulu,"Elektroniikkatie 6, Oulu, 90590","Elektroniikkatie 6, Oulu, 90590, Oulu, Finland","6, Elektroniikkatie, Linnanmaa, Kaijonharju, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90590, Suomi / Finland",65.0593603,25.4409678
+Europe,Finland,,Tampere,"Peltokatu 34 B, Tampere, 33100","Peltokatu 34 B, Tampere, 33100, Tampere, Finland","GO21, 34, Peltokatu, Tammela, Tammela B, Keskustan suuralue, Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, 33100, Suomi / Finland",61.5011171,23.7749458
+Europe,Finland,,Turku,"Joukahaisenkatu 1, Turku, 20520","Joukahaisenkatu 1, Turku, 20520, Turku, Finland","Eurocity, 1, Joukahaisenkatu, Tiedepuisto, Kupittaa, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20520, Suomi / Finland",60.4499259,22.2942748
+Europe,France,,Immeuble le Quartz,"125 Avenue Galillée, Aix-en-Provence, 13100","125 Avenue Galillée, Aix-en-Provence, 13100, Immeuble le Quartz, France",,,
+Europe,France,,Immeuble Oxygène,"80 rue de la Vallée, Amiens, 80000","80 rue de la Vallée, Amiens, 80000, Immeuble Oxygène, France",,,
+Europe,France,,Avignon,"212 Boulevard Pierre Boulle, Avignon, 84000","212 Boulevard Pierre Boulle, Avignon, 84000, Avignon, France","Boulevard Pierre Boulle, Quartier Ouest, Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84000, France",43.9251751,4.7876932
+Europe,France,,Immeuble Andromède,"6 rue des comètesCS 10026, Le Haillan Cedex, Bordeaux, 33187","6 rue des comètesCS 10026, Le Haillan Cedex, Bordeaux, 33187, Immeuble Andromède, France",,,
+Europe,France,,Immeuble Grand Large,"Quai de la Douane, Brest, 29200","Quai de la Douane, Brest, 29200, Immeuble Grand Large, France",,,
+Europe,France,,Clermont Ferrand,"10 rue Eric de Cromières, Clermont Ferrand, 63000","10 rue Eric de Cromières, Clermont Ferrand, 63000, Clermont Ferrand, France","Rue Éric de Cromières, Parc Technologique de La Pardieu, Le Grand Beaulieu, Clermont-Ferrand, Puy-de-Dôme, Auvergne-Rhône-Alpes, France métropolitaine, 63000, France",45.7609459,3.1364751
+Europe,France,,Colmar,"12 place du Capitaine Dreyfus, Colmar, 68000","12 place du Capitaine Dreyfus, Colmar, 68000, Colmar, France","Place du Capitaine Dreyfus, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68000, France",48.0752922,7.3445548
+Europe,France,,Grenoble,"2 Rue Germaine Veyret-VernerÉchirolles, Grenoble, 38130","2 Rue Germaine Veyret-VernerÉchirolles, Grenoble, 38130, Grenoble, France",,,
+Europe,France,,Le Mans,"4 avenue Georges Auric, Le Mans, 72100","4 avenue Georges Auric, Le Mans, 72100, Le Mans, France","Avenue Georges Auric, Zone industrielle de l'université, La Foresterie, Le Mans, Sarthe, Pays de la Loire, France métropolitaine, 72000, France",48.0145328,0.1517956
+Europe,France,,"8, rue Anatole France","Cedex, Lille, 59043","Cedex, Lille, 59043, 8, rue Anatole France, France",,,
+Europe,France,,Limoges,"19 rue Cruveilher, Limoges, 87000","19 rue Cruveilher, Limoges, 87000, Limoges, France",,,
+Europe,France,,Lorient,"9 rue de KerhoasLarmor-Plage, Lorient, 56260","9 rue de KerhoasLarmor-Plage, Lorient, 56260, Lorient, France",,,
+Europe,France,,Bâtiment Docksite,"47-49 rue des Docks, Lyon, 69336","47-49 rue des Docks, Lyon, 69336, Bâtiment Docksite, France",,,
+Europe,France,,Montbeliard,"10 avenue Léon Blum, Montbeliard, 25200","10 avenue Léon Blum, Montbeliard, 25200, Montbeliard, France","Avenue Léon Blum, Petite Hollande Sud, Montbéliard, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25200, France",47.4961388,6.8028952
+Europe,France,,Parc d'Activité Jean Mermoz Bâtiment B,"Avenue Marcel DassaultCastelnau-le-Lez, Montpellier, 34170","Avenue Marcel DassaultCastelnau-le-Lez, Montpellier, 34170, Parc d'Activité Jean Mermoz Bâtiment B, France",,,
+Europe,France,,Nancy,"28 Boulevard Albert 1er, Nancy, 54000","28 Boulevard Albert 1er, Nancy, 54000, Nancy, France","28, Boulevard Albert 1er, Poincaré - Foch - Anatole France - Croix de Bourgogne, Nancy, Meurthe-et-Moselle, Grand Est, France métropolitaine, 54100, France",48.695315,6.1676339
+Europe,France,,Nantes,"Forges de Batignolles13 – 15 rue de Ranzay, Nantes, 44300","Forges de Batignolles13 – 15 rue de Ranzay, Nantes, 44300, Nantes, France",,,
+Europe,France,,Niort,"3 rue Thomas Portau, Niort, 79000","3 rue Thomas Portau, Niort, 79000, Niort, France","Fresh, 3, Rue Thomas Portau, Zone industrielle La Garenne, Saint-Florent, Niort, Deux-Sèvres, Nouvelle-Aquitaine, France métropolitaine, 79000, France",46.3069069,-0.484221
+Europe,France,,Orléans,"6bis rue Jean Zay, Orléans, 45800","6bis rue Jean Zay, Orléans, 45800, Orléans, France","Rue Jean Zay, Clos de la Gerberie, Saint-Jean-de-Braye, Orléans, Loiret, Centre-Val de Loire, France métropolitaine, 45800, France",47.9119259,1.9773973
+Europe,France,,Parc d'activités Pau Pyrénées Bâtiment H,"7 rue Faraday, Pau, 64320","7 rue Faraday, Pau, 64320, Parc d'activités Pau Pyrénées Bâtiment H, France",,,
+Europe,France,,Paris - Carré Michelet,"Siège CGI en France10-12 cours michelet, Puteaux, 92800","Siège CGI en France10-12 cours michelet, Puteaux, 92800, Paris - Carré Michelet, France",,,
+Europe,France,,Immeuble AERIS,"19 rue du chêne GermainCesson-Sévigné, Rennes, 35510","19 rue du chêne GermainCesson-Sévigné, Rennes, 35510, Immeuble AERIS, France",,,
+Europe,France,,Saint-Avertin,"Immeuble Galaxie18 rue du Pont de l’Arche, Saint-Avertin, 37550","Immeuble Galaxie18 rue du Pont de l’Arche, Saint-Avertin, 37550, Saint-Avertin, France",,,
+Europe,France,,Bâtiment Atlas B,"310 Chemin du VallonValbonne, Sophia-Antipolis, 06560","310 Chemin du VallonValbonne, Sophia-Antipolis, 06560, Bâtiment Atlas B, France",,,
+Europe,France,,Strasbourg,"6 rue Eugénie BrazierIllkirch, Strasbourg, 67400","6 rue Eugénie BrazierIllkirch, Strasbourg, 67400, Strasbourg, France",,,
+Europe,France,,Tarnos,"3 rue Hélène Boucher, Tarnos, 40220","3 rue Hélène Boucher, Tarnos, 40220, Tarnos, France","WebPlusUn, 3, Rue Hélène Boucher, Tarnos, Dax, Landes, Nouvelle-Aquitaine, France métropolitaine, 40220, France",43.5459915,-1.4923448
+Europe,France,,Toulouse,"15 Avenue du Docteur Maurice Grynfogel, Toulouse, 31100","15 Avenue du Docteur Maurice Grynfogel, Toulouse, 31100, Toulouse, France","CGI, 15, Avenue du Docteur Maurice Grynfogel, Lardenne, Lardenne / Pradettes / Basso-Cambo, Toulouse, Haute-Garonne, Occitanie, France métropolitaine, 31100, France",43.5790865,1.3678312
+Europe,France,,Tours,"27 rue James Watt, Tours, 37000","27 rue James Watt, Tours, 37000, Tours, France","Rue James Watt, Les Deux Lions, Tours, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37000, France",47.3674619,0.6809435
+Europe,Germany,,Aalen,"Südlicher Stadtgraben 11, Aalen, 73430","Südlicher Stadtgraben 11, Aalen, 73430, Aalen, Germany","11, Südlicher Stadtgraben, Oststadt, Aalen, Verwaltungsgemeinschaft Aalen, Ostalbkreis, Baden-Württemberg, 73430, Deutschland",48.8365765,10.0946416
+Europe,Germany,,Alsfeld,"Ludwigsplatz 1, Alsfeld, 36304","Ludwigsplatz 1, Alsfeld, 36304, Alsfeld, Germany","Medienzentrum Altes Postamt, 1, Ludwigsplatz, Alsfeld, Vogelsbergkreis, Hessen, 36304, Deutschland",50.7529442,9.2700744
+Europe,Germany,,Ansbach,"Bahnhofstraße 2, Ansbach, 91522","Bahnhofstraße 2, Ansbach, 91522, Ansbach, Germany","2, Bahnhofstraße, Gewerbegebiet Bahnhofstraße, Kammerforst, Ansbach, Bayern, 91522, Deutschland",49.2991677,10.579618
+Europe,Germany,,Berlin,"Wallstraße 16,, Berlin, 10179","Wallstraße 16,, Berlin, 10179, Berlin, Germany","16, Wallstraße, Nikolaiviertel, Neu-Cölln, Mitte, Berlin, 10179, Deutschland",52.5112107,13.4064446
+Europe,Germany,,Bielefeld,"Wilhelmstraße 3, Bielefeld, 33602","Wilhelmstraße 3, Bielefeld, 33602, Bielefeld, Germany","Tourist-Information Bielefeld, 3, Wilhelmstraße, Mitte, Bielefeld, Nordrhein-Westfalen, 33602, Deutschland",52.0238462,8.5347812
+Europe,Germany,,Bochum,"Alte Wittener Straße 56, Bochum, 44803","Alte Wittener Straße 56, Bochum, 44803, Bochum, Germany","SPACE 51°7, 56, Alte Wittener Straße, Laer, Bochum-Ost, Bochum, Nordrhein-Westfalen, 44803, Deutschland",51.4677528,7.2728823
+Europe,Germany,,Braunschweig,"Hintern Brüdern 23, Braunschweig, 38100","Hintern Brüdern 23, Braunschweig, 38100, Braunschweig, Germany","Stadthaus Petri, 23, Hintern Brüdern, Mitte, Braunschweig, Niedersachsen, 38100, Deutschland",52.2661682,10.5173809
+Europe,Germany,,Bremen,"KranhausHoerneckestraße 39, Bremen, 28217","KranhausHoerneckestraße 39, Bremen, 28217, Bremen, Germany",,,
+Europe,Germany,,Darmstadt,"Mornewegstraße 30, Darmstadt, 64293","Mornewegstraße 30, Darmstadt, 64293, Darmstadt, Germany","30, Mornewegstraße, Mornewegviertel, Darmstadt-Nord, Darmstadt, Hessen, 64293, Deutschland",49.8726747,8.6349297
+Europe,Germany,,Dresden,"Washingtonstraße 16, Dresden, 01139","Washingtonstraße 16, Dresden, 01139, Dresden, Germany","16, Washingtonstraße, MiKa-Quartier, Mickten, Übigau, Pieschen, Dresden, Sachsen, 01139, Deutschland",51.0758533,13.6894319
+Europe,Germany,,Düsseldorf,"Heesenstraße 31, Düsseldorf, 40549","Heesenstraße 31, Düsseldorf, 40549, Düsseldorf, Germany","OASIS 31, 31, Heesenstraße, Heerdt, Stadtbezirk 4, Düsseldorf, Nordrhein-Westfalen, 40549, Deutschland",51.2297928,6.7141715
+Europe,Germany,,Erfurt,"Bahnhofstraße 38, Erfurt, 99084","Bahnhofstraße 38, Erfurt, 99084, Erfurt, Germany","CGI, 38, Bahnhofstraße, Altstadt, Erfurt, Thüringen, 99084, Deutschland",50.9743328,11.0350749
+Europe,Germany,,Erlangen,"Stoke-on-Trent-Straße 1, Erlangen, 91058","Stoke-on-Trent-Straße 1, Erlangen, 91058, Erlangen, Germany","Brucklyn Hall, 1, Stoke-on-Trent-Straße, Bruck, Erlangen, Bayern, 91058, Deutschland",49.5688631,10.992339
+Europe,Germany,,Eschborn,"Frankfurter Straße 102-110, Eschborn, 65760","Frankfurter Straße 102-110, Eschborn, 65760, Eschborn, Germany","Frankfurter Straße, Eschborn, Main-Taunus-Kreis, Hessen, 65760, Deutschland",50.1322641,8.5643917
+Europe,Germany,,Hamburg,"Millerntorplatz 1, Hamburg, 20359","Millerntorplatz 1, Hamburg, 20359, Hamburg, Germany","1, Millerntorplatz, St. Pauli, Hamburg-Mitte, Hamburg, 20359, Deutschland",53.5505606,9.9686519
+Europe,Germany,,Hannover,"Goseriede 4, Hannover, 30159","Goseriede 4, Hannover, 30159, Hannover, Germany","Tiedthof, 4, Goseriede, Altstadt, Mitte, Hannover, Region Hannover, Niedersachsen, 30159, Deutschland",52.3775081,9.7333162
+Europe,Germany,,Kaiserslautern,"Europaallee 33, Kaiserslautern, 67657","Europaallee 33, Kaiserslautern, 67657, Kaiserslautern, Germany","33, Europaallee, Europahöhe, Kaiserslautern, Rheinland-Pfalz, 67657, Deutschland",49.4536304,7.81577
+Europe,Germany,,Karlsruhe,"CGI Innovation LabHardtstraße 37A Bau 2, Karlsruhe, 76185","CGI Innovation LabHardtstraße 37A Bau 2, Karlsruhe, 76185, Karlsruhe, Germany",,,
+Europe,Germany,,Kassel,"Karthäuserstraße 8, Kassel, 34177","Karthäuserstraße 8, Kassel, 34177, Kassel, Germany","8, Karthäuserstraße, Mitte, Kassel, Hessen, 34117, Deutschland",51.3141219,9.4858757
+Europe,Germany,,Koblenz,"Friedrich Mohr Straße 1, Koblenz, 56070","Friedrich Mohr Straße 1, Koblenz, 56070, Koblenz, Germany","1, Friedrich-Mohr-Straße, Lützel, Koblenz, Rheinland-Pfalz, 56070, Deutschland",50.3801228,7.5739379
+Europe,Germany,,Köln,"Ettore-Bugatti-Straße 6-14, Köln, 51149","Ettore-Bugatti-Straße 6-14, Köln, 51149, Köln, Germany","Ettore-Bugatti-Straße, Airport Business Park, Gremberghoven, Porz, Köln, Nordrhein-Westfalen, 51149, Deutschland",50.909788,7.055168
+Europe,Germany,,Leinfelden-Echterdingen,"Bertha-Benz-Platz 1, Leinfelden-Echterdingen, 70771","Bertha-Benz-Platz 1, Leinfelden-Echterdingen, 70771, Leinfelden-Echterdingen, Germany","Bertha-Benz-Platz, Echterdingen Nord, Echterdingen, Leinfelden-Echterdingen, Landkreis Esslingen, Baden-Württemberg, 70771, Deutschland",48.6985011,9.1657843
+Europe,Germany,,Leipzig,"Augustusplatz 9, Leipzig, 04109","Augustusplatz 9, Leipzig, 04109, Leipzig, Germany","City-Hochhaus, 9, Augustusplatz, Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",51.3379592,12.379074
+Europe,Germany,,Mannheim,"Hermsheimer Straße 3Eastsite VII, Mannheim, 68163","Hermsheimer Straße 3Eastsite VII, Mannheim, 68163, Mannheim, Germany",,,
+Europe,Germany,,München,"Tegernseer Landstraße 161, München, 81539","Tegernseer Landstraße 161, München, 81539, München, Germany","161, Tegernseer Landstraße, Parkviertel Giesing, 17.1, Obergiesing-Fasangarten, München, Bayern, 81539, Deutschland",48.1097829,11.5791085
+Europe,Germany,,Potsdam,"Puschkinallee 11, Potsdam, 14469","Puschkinallee 11, Potsdam, 14469, Potsdam, Germany","11, Puschkinallee, Nauener Vorstadt, Potsdam, Brandenburg, 14469, Deutschland",52.4125705,13.0597068
+Europe,Germany,,Zweibrücken,"Straßburger Ring 21, Zweibrücken, 66482","Straßburger Ring 21, Zweibrücken, 66482, Zweibrücken, Germany","BauWerk, 21, Straßburger Ring, Gewerbegebiet Flugplatz Zweibrücken, Rimschweiler, Zweibrücken, Rheinland-Pfalz, 66482, Deutschland",49.2246988,7.3994346
+Europe,Hungary,,Budapest,"Váci út 91/A,, Budapest, 1139","Váci út 91/A,, Budapest, 1139, Budapest, Hungary","Váci út, Göncz Árpád városközpont, XIII. kerület, Budapest, Közép-Magyarország, 1139, Magyarország",47.534935,19.0677518
+Europe,Italy,Catania,Catania,"Via Museo Biscari, 16, Catania (CT), 95131","Via Museo Biscari, 16, Catania (CT), 95131, Catania, Italy","16, Via Museo Biscari, Civita, Centro storico, Catania, Sicilia, 95131, Italia",37.5022399,15.0909902
+Europe,Italy,Milano,Lombardia – Milano (MI),"Via Bisceglie, 68 – Torre B, Milano, 20152","Via Bisceglie, 68 – Torre B, Milano, 20152, Lombardia – Milano (MI), Italy",,,
+Europe,Italy,Milano,Milano,"Lombardia – Milano (MI), Piazza Filippo Meda, 3Sede legale, Milano, 20121","Lombardia – Milano (MI), Piazza Filippo Meda, 3Sede legale, Milano, 20121, Milano, Italy",,,
+Europe,Italy,Padova,Veneto – Padova (PD),"Via Visco, 1, Limena, Padova, 35137","Via Visco, 1, Limena, Padova, 35137, Veneto – Padova (PD), Italy","Via Visco, Limena, Padova, Veneto, 35010, Italia",45.4690451,11.8537001
+Europe,Italy,Roma,Lazio – Frascati (RM),"Via Enrico Fermi, 62, Frascati, 00044","Via Enrico Fermi, 62, Frascati, 00044, Lazio – Frascati (RM), Italy","Via Enrico Fermi, Frascati, Roma Capitale, Lazio, 00044, Italia",41.8253501,12.6692245
+Europe,Latvia,,Riga,"Gunara Astras street 8B, Riga, LV-1082","Gunara Astras street 8B, Riga, LV-1082, Riga, Latvia",,,
+Europe,Lithuania,,Business Leaders Center,"K. Donelaičio g. 60, Kaunas, 44248","K. Donelaičio g. 60, Kaunas, 44248, Business Leaders Center, Lithuania",,,
+Europe,Lithuania,,Vilnius,"Ukmergės g. 126, Vilnius, 08100","Ukmergės g. 126, Vilnius, 08100, Vilnius, Lithuania","CORE, 126, Ukmergės g., Šeškinė, Žvėryno seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, 08126, Lietuva",54.7020229,25.2573033
+Europe,Luxembourg,,Luxembourg,"7 zone d'activité de Bourmicht, Luxembourg, 8070","7 zone d'activité de Bourmicht, Luxembourg, 8070, Luxembourg, Luxembourg",,,
+Europe,Netherlands,,Amsterdam,"De Entree 21, Amsterdam, 1101 BH","De Entree 21, Amsterdam, 1101 BH, Amsterdam, Netherlands","21, De entree, Amstel III, Zuidoost, Amsterdam, Noord-Holland, Nederland, 1101 BH, Nederland",52.3115943,4.9395833
+Europe,Netherlands,,ARNHEM,"Utrechtseweg 310 / gebouw B42, ARNHEM, 6812 AR","Utrechtseweg 310 / gebouw B42, ARNHEM, 6812 AR, ARNHEM, Netherlands",,,
+Europe,Netherlands,,Eindhoven,"High Tech Campus 5, Eindhoven, 5656 AE","High Tech Campus 5, Eindhoven, 5656 AE, Eindhoven, Netherlands","Bilfinger Tebodin, 5, High Tech Campus, High Tech Campus Eindhoven, Gestel, Eindhoven, Noord-Brabant, Nederland, 5656 AE, Nederland",51.4100784,5.4550722
+Europe,Netherlands,,Groningen - Eemsgolaan,"Eemsgolaan 1, Groningen, 9727 DW","Eemsgolaan 1, Groningen, 9727 DW, Groningen - Eemsgolaan, Netherlands",,,
+Europe,Netherlands,,Maastricht,"Stationsplein 12, Maastricht, 6221 BT","Stationsplein 12, Maastricht, 6221 BT, Maastricht, Netherlands","12, Stationsplein, Wyck, Maastricht-Centrum, Maastricht, Limburg, Nederland, 6221 BT, Nederland",50.8481875,5.7060571
+Europe,Netherlands,,Rotterdam – De Lotus (head office),"George Hintzenweg 89, Rotterdam, 3068 AX","George Hintzenweg 89, Rotterdam, 3068 AX, Rotterdam – De Lotus (head office), Netherlands",,,
+Europe,Norway,,Bergen,"Edvard Griegs vei 3., Bergen, 5059","Edvard Griegs vei 3., Bergen, 5059, Bergen, Norway","3C, Edvard Griegs vei, Kronstad, Årstad, Bergen, Vestland, 5059, Norge",60.373474,5.341543
+Europe,Norway,,Haugesund,"Spannavegen 152, Haugesund, 5535","Spannavegen 152, Haugesund, 5535, Haugesund, Norway","152, Spannavegen, Skuggaberg, Sakkastad, Haugesund, Rogaland, 5535, Norge",59.394899,5.304501
+Europe,Norway,,(Mailing address),"Postboks 6432Etterstad, Oslo, 0605","Postboks 6432Etterstad, Oslo, 0605, (Mailing address), Norway",,,
+Europe,Norway,,(Visiting address),"Innspurten 1a, Oslo, 0663","Innspurten 1a, Oslo, 0663, (Visiting address), Norway",,,
+Europe,Norway,,(Visiting and mailing address),"Hundskinnveien 94, Sarpsborg, 1711","Hundskinnveien 94, Sarpsborg, 1711, (Visiting and mailing address), Norway",,,
+Europe,Norway,,(Visiting address),"Veritasveien 25, Stavanger, 4007","Veritasveien 25, Stavanger, 4007, (Visiting address), Norway",,,
+Europe,Norway,,(Mailing address),"Postboks 414, Stavanger, 4067","Postboks 414, Stavanger, 4067, (Mailing address), Norway",,,
+Europe,Norway,,Tønsberg,"Kilengaten 1, Tønsberg, 3117","Kilengaten 1, Tønsberg, 3117, Tønsberg, Norway","1, Kilengaten, Presterød, Tønsberg, Vestfold, 3117, Norge",59.2741904,10.4322341
+Europe,Norway,,Trondheim,"Beddingen 8, Trondheim, 7042","Beddingen 8, Trondheim, 7042, Trondheim, Norway","8, Beddingen, Kirkesletta, Nedre Elvehavn, Østbyen, Trondheim, Trøndelag, 7042, Norge",63.434941,10.412802
+Europe,Poland,,Toruń,"Ul. Grudziądzka 46/48Orbita Business Park, Toruń, 87-100","Ul. Grudziądzka 46/48Orbita Business Park, Toruń, 87-100, Toruń, Poland",,,
+Europe,Poland,,Warszawa,"Plac Trzech Krzyży 10/14Budynek Ethos, Warszawa, 00-499","Plac Trzech Krzyży 10/14Budynek Ethos, Warszawa, 00-499, Warszawa, Poland",,,
+Europe,Poland,,Wrocław,"ul. Sucha 2Budynek Sagittarius, Wrocław, 50-088","ul. Sucha 2Budynek Sagittarius, Wrocław, 50-088, Wrocław, Poland",,,
+Europe,Portugal,,Main Office,"Av. José Malhoa, 16A, 5º, Lisboa, 1070-159","Av. José Malhoa, 16A, 5º, Lisboa, 1070-159, Main Office, Portugal",,,
+Europe,Portugal,,Parque das Nações,"Av. Infante Dom Henrique, 343 – Piso 2, Lisboa, 1800-218","Av. Infante Dom Henrique, 343 – Piso 2, Lisboa, 1800-218, Parque das Nações, Portugal",,,
+Europe,Portugal,,Odivelas,"Rua Norberto Oliveira, n.º 13, Odivelas, 2675-216","Rua Norberto Oliveira, n.º 13, Odivelas, 2675-216, Odivelas, Portugal",,,
+Europe,Portugal,,Porto,"Rua Heróis Mártires de Angola, 59, 2º, Porto, 4000-285","Rua Heróis Mártires de Angola, 59, 2º, Porto, 4000-285, Porto, Portugal",,,
+Europe,Portugal,,Sintra,"Sintra Business Park, Edifício 9, Abrunheira, Sintra, 2710-089","Sintra Business Park, Edifício 9, Abrunheira, Sintra, 2710-089, Sintra, Portugal",,,
+Europe,Romania,,Bucharest,"Ghercu Constantin 1B StreetThe Bridge 3, Bucharest, 060201","Ghercu Constantin 1B StreetThe Bridge 3, Bucharest, 060201, Bucharest, Romania",,,
+Europe,Slovakia,,Bratislava,"Landererova 12, Bratislava, 811 09","Landererova 12, Bratislava, 811 09, Bratislava, Slovakia","Landererova 12, 7866/12, Landererova, Oblasť Dunajská, Bratislava - mestská časť Staré Mesto, okres Bratislava I, Bratislava, Bratislavský kraj, 811 09, Slovensko",48.1418057,17.1288738
+Europe,Spain,Álava,VITORIA – GASTEIZ,"Avda. de los Huetos, 75. Oficina 20.Polígono Industrial Ali-Gobeo – Edificio Azucarera, VITORIA – GASTEIZ, 01010","Avda. de los Huetos, 75. Oficina 20.Polígono Industrial Ali-Gobeo – Edificio Azucarera, VITORIA – GASTEIZ, 01010, VITORIA – GASTEIZ, Spain",,,
+Europe,Spain,Barcelona,PLAZA UNIVERSITAT / Spaces,"Oficina 303 - CGIGran Via de les Corts Catalanes, 583, Barcelona, 08011","Oficina 303 - CGIGran Via de les Corts Catalanes, 583, Barcelona, 08011, PLAZA UNIVERSITAT / Spaces, Spain",,,
+Europe,Spain,Granada,Granada,"Parque de las Ciencias 1, 1ª planta - Oficinas B, C , D, E, F. Edificio Spring Glory, Granada, 18006","Parque de las Ciencias 1, 1ª planta - Oficinas B, C , D, E, F. Edificio Spring Glory, Granada, 18006, Granada, Spain",,,
+Europe,Spain,Madrid,Madrid - Avda. De Manoteras,"Avda, Manoteras, 10 Edificio C,, Madrid, 28050","Avda, Manoteras, 10 Edificio C,, Madrid, 28050, Madrid - Avda. De Manoteras, Spain",,,
+Europe,Spain,Málaga,Malaga,"Avenida Louis Pasteur,  47 - 4ªPl, Malaga, 29010","Avenida Louis Pasteur,  47 - 4ªPl, Malaga, 29010, Malaga, Spain",,,
+Europe,Spain,Palma de Mallorca,C/Germans Lumière 3,"Edificio ClosellBajos 1, Parc Bit, Illes Balears, 07121","Edificio ClosellBajos 1, Parc Bit, Illes Balears, 07121, C/Germans Lumière 3, Spain",,,
+Europe,Spain,Sevilla,Sevilla,"Avenida Américo Vespucio,45 – Edificio N1, Sevilla, 41092","Avenida Américo Vespucio,45 – Edificio N1, Sevilla, 41092, Sevilla, Spain",,,
+Europe,Spain,Zaragoza,Zaragoza,"Centro Empresarial El Trovador – 7ª planta, Zaragoza, 50002","Centro Empresarial El Trovador – 7ª planta, Zaragoza, 50002, Zaragoza, Spain",,,
+Europe,Sweden,,Borlänge - Borganäsvägen,"Borganäsvägen 26, Borlänge, 784 33","Borganäsvägen 26, Borlänge, 784 33, Borlänge - Borganäsvägen, Sweden",,,
+Europe,Sweden,,Bromölla - Ivögatan,"Ivögatan 5, Bromölla, 295 31","Ivögatan 5, Bromölla, 295 31, Bromölla - Ivögatan, Sweden",,,
+Europe,Sweden,,Eskilstuna,"Libergsgatan 10, Eskilstuna, 63221","Libergsgatan 10, Eskilstuna, 63221, Eskilstuna, Sweden","Libergsgatan, Gamla Torshälla, Torshälla, Eskilstuna kommun, Södermanlands län, 644 31, Sverige",59.4199091,16.4652722
+Europe,Sweden,,Gävle,"Drottninggatan 6, Gävle, 803 20","Drottninggatan 6, Gävle, 803 20, Gävle, Sweden","Bistro Café Pazzo, 6, Drottninggatan, Skolstuvan, Villastan, Gävle, Gävle kommun, Gävleborgs län, 803 20, Sverige",60.6738835,17.1408003
+Europe,Sweden,,Göteborg,"Kruthusgatan 17, Göteborg, 41104","Kruthusgatan 17, Göteborg, 41104, Göteborg, Sweden","17, Kruthusgatan, Gullbergsvass, Stampen, Centrum, Göteborg, Göteborgs Stad, Västra Götalands län, 411 01, Sverige",57.7119361,11.9822323
+Europe,Sweden,,Härnösand - Storgatan,"Fiskaregatan 4A, Härnösand, 871 33","Fiskaregatan 4A, Härnösand, 871 33, Härnösand - Storgatan, Sweden",,,
+Europe,Sweden,,Jönköping - Järnvägsgatan,"Järnvägsgatan 3, Jönköping, 553 15","Järnvägsgatan 3, Jönköping, 553 15, Jönköping - Järnvägsgatan, Sweden",,,
+Europe,Sweden,,Kalmar - Kaggensgatan,"Kaggensgatan 42, Kalmar, 392 48","Kaggensgatan 42, Kalmar, 392 48, Kalmar - Kaggensgatan, Sweden",,,
+Europe,Sweden,,Karlskrona - Campus Gräsvik,"Campus Gräsvik 26 A, Karlskrona, 371 75","Campus Gräsvik 26 A, Karlskrona, 371 75, Karlskrona - Campus Gräsvik, Sweden",,,
+Europe,Sweden,,Karlstad - Tynäsgatan,"Tynäsgatan 6, Karlstad, 652 16","Tynäsgatan 6, Karlstad, 652 16, Karlstad - Tynäsgatan, Sweden",,,
+Europe,Sweden,,Kiruna - Österleden,"Österleden 15Box 835, Kiruna, 981 28","Österleden 15Box 835, Kiruna, 981 28, Kiruna - Österleden, Sweden",,,
+Europe,Sweden,,Linköping - Teknikringen,"St. Larsgatan 1-3, Linköping, 582 24","St. Larsgatan 1-3, Linköping, 582 24, Linköping - Teknikringen, Sweden",,,
+Europe,Sweden,,Luleå - Aurorum,"Aurorum 8B, Luleå, 977 75","Aurorum 8B, Luleå, 977 75, Luleå - Aurorum, Sweden",,,
+Europe,Sweden,,Malmö - Östra Varvsgatan,"Östra Varvsgatan 2, Malmö, 211 75","Östra Varvsgatan 2, Malmö, 211 75, Malmö - Östra Varvsgatan, Sweden",,,
+Europe,Sweden,,Norrköping - Södra Grytsgatan,"Södra Grytsgatan 7, Norrköping, 600 45","Södra Grytsgatan 7, Norrköping, 600 45, Norrköping - Södra Grytsgatan, Sweden",,,
+Europe,Sweden,,Örebro - Storgatan,"Olaigatan 15, Örebro, 703 61","Olaigatan 15, Örebro, 703 61, Örebro - Storgatan, Sweden",,,
+Europe,Sweden,,Örnsköldsvik - Järnvägsgatan,"Järnvägsgatan 3Box 890, Örnsköldsvik, 891 18","Järnvägsgatan 3Box 890, Örnsköldsvik, 891 18, Örnsköldsvik - Järnvägsgatan, Sweden",,,
+Europe,Sweden,,Oskarshamn - Bryggaregatan,"Bryggaregatan 1, Oskarshamn, 572 30","Bryggaregatan 1, Oskarshamn, 572 30, Oskarshamn - Bryggaregatan, Sweden",,,
+Europe,Sweden,,Östersund,"Rådhusgatan 15-17, Östersund, 831 41","Rådhusgatan 15-17, Östersund, 831 41, Östersund, Sweden","Rådhusgatan, Hornsberg, Östersund, Östersunds kommun, Jämtlands län, 831 41, Sverige",63.1840038,14.6396132
+Europe,Sweden,,Skellefteå - Nygatan,"Nygatan 42B, Skellefteå, 931 31","Nygatan 42B, Skellefteå, 931 31, Skellefteå - Nygatan, Sweden",,,
+Europe,Sweden,,Stockholm,"Franzéngatan 6, Stockholm, 111 20","Franzéngatan 6, Stockholm, 111 20, Stockholm, Sweden","6, Franzéngatan, Hornsberg, Stadshagen, Kungsholmens stadsdelsområde, Stockholm, Stockholms kommun, Stockholms län, 112 17, Sverige",59.3396922,18.0134071
+Europe,Sweden,,Stockholm,"Englundavägen 7Solna, Stockholm, 171 41","Englundavägen 7Solna, Stockholm, 171 41, Stockholm, Sweden",,,
+Europe,Sweden,,Sundsvall - Fredsgatan,"Fredsgatan 3, Sundsvall, 851 05","Fredsgatan 3, Sundsvall, 851 05, Sundsvall - Fredsgatan, Sweden",,,
+Europe,Sweden,,Umeå - Tegsplan,"Tegsplan 2B, Umeå, 904 20","Tegsplan 2B, Umeå, 904 20, Umeå - Tegsplan, Sweden",,,
+Europe,Sweden,,Västerås - Sigurdsgatan,"Kopparbergsvägen 6, Västerås, 722 13","Kopparbergsvägen 6, Västerås, 722 13, Västerås - Sigurdsgatan, Sweden",,,
+Europe,Switzerland,,Geneva,"Esplanade de Pont-Rouge 1Grand-Lancy, Geneva, 1212","Esplanade de Pont-Rouge 1Grand-Lancy, Geneva, 1212, Geneva, Switzerland",,,
+Europe,United Kingdom,,Belfast,"The Kelvin Suite 20217-25 College Square East, Belfast, BT1 6DE","The Kelvin Suite 20217-25 College Square East, Belfast, BT1 6DE, Belfast, United Kingdom",,,
+Europe,United Kingdom,Berkshire,Reading,"3rd Floor (E Link, D Spur, D Link)  CampusReading International Business Park, Basingstoke Road, Reading, RG2 6DH","3rd Floor (E Link, D Spur, D Link)  CampusReading International Business Park, Basingstoke Road, Reading, RG2 6DH, Reading, United Kingdom",,,
+Europe,United Kingdom,Bristol,Building 20a1 Brandon House,"Southmead RoadFilton, Bristol, BS34 7RR","Southmead RoadFilton, Bristol, BS34 7RR, Building 20a1 Brandon House, United Kingdom",,,
+Europe,United Kingdom,Buckinghamshire,Milton Keynes,"CGI IT UK Ltd at SPACES100 Avebury Boulevard, Milton Keynes, MK9 1FH","CGI IT UK Ltd at SPACES100 Avebury Boulevard, Milton Keynes, MK9 1FH, Milton Keynes, United Kingdom",,,
+Europe,United Kingdom,City of Bristol,Bristol,"1st Floor,90 Victoria Street, Bristol, BS1 6DP","1st Floor,90 Victoria Street, Bristol, BS1 6DP, Bristol, United Kingdom",,,
+Europe,United Kingdom,Devon,"The Generator Hub,","Kings Wharf,The Quay, Exeter, EX2 4AN","Kings Wharf,The Quay, Exeter, EX2 4AN, The Generator Hub,, United Kingdom",,,
+Europe,United Kingdom,Gloucestershire,Brockworth,"Unit 1240 Lansdowne CourtGloucester Business Park, Brockworth, GL3 4AB","Unit 1240 Lansdowne CourtGloucester Business Park, Brockworth, GL3 4AB, Brockworth, United Kingdom",,,
+Europe,United Kingdom,Greater Manchester,Manchester,"Colgate LaneSalford Quays, Manchester, M5 3LZ","Colgate LaneSalford Quays, Manchester, M5 3LZ, Manchester, United Kingdom",,,
+Europe,United Kingdom,Greater Manchester,Manchester,"4th Floor, Union,2-10 Albert Square, Manchester, M2 6LW","4th Floor, Union,2-10 Albert Square, Manchester, M2 6LW, Manchester, United Kingdom",,,
+Europe,United Kingdom,Leicestershire,Leicester,"Room 1.37 - Space Park Leicester92 Corporation Road, Leicester, LE4 5SP","Room 1.37 - Space Park Leicester92 Corporation Road, Leicester, LE4 5SP, Leicester, United Kingdom",,,
+Europe,United Kingdom,Lincolnshire,Lincoln,"Mosaic,1st Floor, 13-14 Silver St, Lincoln, LN2 1DY","Mosaic,1st Floor, 13-14 Silver St, Lincoln, LN2 1DY, Lincoln, United Kingdom",,,
+Europe,United Kingdom,London,London - Fenchurch Street,"14th Floor20 Fenchurch Street, London, EC3M 3BY","14th Floor20 Fenchurch Street, London, EC3M 3BY, London - Fenchurch Street, United Kingdom",,,
+Europe,United Kingdom,Merseyside,Liverpool,"Suite 523 Mann Island, Liverpool, L3 1BP","Suite 523 Mann Island, Liverpool, L3 1BP, Liverpool, United Kingdom",,,
+Europe,United Kingdom,North Yorkshire,York,"Kings House,12 King Street,, York, YO1 9WP","Kings House,12 King Street,, York, YO1 9WP, York, United Kingdom",,,
+Europe,United Kingdom,Nottinghamshire,Nottingham,"4th Floor,Fothergill House, 16 King Street,, Nottingham, NG1 2AS","4th Floor,Fothergill House, 16 King Street,, Nottingham, NG1 2AS, Nottingham, United Kingdom",,,
+Europe,United Kingdom,Scotland,Regus Spaces,"Room 1001 Marischal Square, Aberdeenshire, AB10 1BL","Room 1001 Marischal Square, Aberdeenshire, AB10 1BL, Regus Spaces, United Kingdom",,,
+Europe,United Kingdom,Scotland,Edinburgh,"Cubo 4th & 6th Floor40 Princes Street, Edinburgh, EH2 2BY","Cubo 4th & 6th Floor40 Princes Street, Edinburgh, EH2 2BY, Edinburgh, United Kingdom",,,
+Europe,United Kingdom,Scotland,Edinburgh,"Cubo6th Floor, 40 Princes Street, Edinburgh, EH2 2BY","Cubo6th Floor, 40 Princes Street, Edinburgh, EH2 2BY, Edinburgh, United Kingdom",,,
+Europe,United Kingdom,Scotland,Galashiels,"1 & 2 Tweedside ParkTweedbank, Galashiels, TD1 3TE","1 & 2 Tweedside ParkTweedbank, Galashiels, TD1 3TE, Galashiels, United Kingdom",,,
+Europe,United Kingdom,Scotland,Glasgow,"151 West George Street, Glasgow, G2 2JJ","151 West George Street, Glasgow, G2 2JJ, Glasgow, United Kingdom","Society Room, 151, West George Street, Blythswood Hill, Glasgow, Glasgow City, Alba / Scotland, G2 2JJ, United Kingdom",55.8622507,-4.2571298
+Europe,United Kingdom,South Yorkshire,Sheffield,"Cubo,3rd Floor, 38 Carver Street,, Sheffield,, S1 4FS","Cubo,3rd Floor, 38 Carver Street,, Sheffield,, S1 4FS, Sheffield, United Kingdom",,,
+Europe,United Kingdom,Surrey,Keats House,"The Office ParkSpringfield Drive, Leatherhead, KT22 7LP","The Office ParkSpringfield Drive, Leatherhead, KT22 7LP, Keats House, United Kingdom",,,
+Europe,United Kingdom,Tyne and Wear,Newcastle,"Floor 12 Bank HousePilgrim Street, Newcastle upon Tyne, NE4 5TG","Floor 12 Bank HousePilgrim Street, Newcastle upon Tyne, NE4 5TG, Newcastle, United Kingdom",,,
+Europe,United Kingdom,Wales,Waterton,"Moor Road WatertonIndustrial Estate, Bridgend, CF31 3TR","Moor Road WatertonIndustrial Estate, Bridgend, CF31 3TR, Waterton, United Kingdom",,,
+Europe,United Kingdom,Wales,Cardiff,"5th Floor, The Tramshed,One Central Square,, Cardiff, CF10 1FS","5th Floor, The Tramshed,One Central Square,, Cardiff, CF10 1FS, Cardiff, United Kingdom",,,
+Europe,United Kingdom,Wales,Swansea,"Tramshed Tech156 High Street, Swansea, SA1 1NE","Tramshed Tech156 High Street, Swansea, SA1 1NE, Swansea, United Kingdom",,,
+Europe,United Kingdom,West Midlands,Cubo Birmingham,"2 Chamberlain Square, Birmingham, B3 3AX","2 Chamberlain Square, Birmingham, B3 3AX, Cubo Birmingham, United Kingdom",,,
+Europe,United Kingdom,Wiltshire,Chippenham,"Methuen Park, Wiltshire, SN14 0GB","Methuen Park, Wiltshire, SN14 0GB, Chippenham, United Kingdom","Methuen Park, Chippenham, Wiltshire, England, United Kingdom",51.4467922,-2.1435719
+Europe,United Kingdom,"Yorkshire, West Riding",Leeds,"1 Whitehall Quay, Leeds, LS1 4HR","1 Whitehall Quay, Leeds, LS1 4HR, Leeds, United Kingdom","1 Whitehall Quay, 1, Whitehall Quay, Holbeck Urban Village, Holbeck, Leeds, West Yorkshire, England, LS1 4HR, United Kingdom",53.7953632,-1.5508162
+The Americas,Canada,Alberta,Calgary,"444 - 7th Avenue SWSuite 500, Calgary, T2P 0X8","444 - 7th Avenue SWSuite 500, Calgary, T2P 0X8, Calgary, Canada",,,
+The Americas,Canada,Alberta,Edmonton,"10303 Jasper AvenueSuite 800, Edmonton, T5J 3N6","10303 Jasper AvenueSuite 800, Edmonton, T5J 3N6, Edmonton, Canada",,,
+The Americas,Canada,British Columbia,Vancouver,"375 Water Street, Vancouver, V6B 1A1","375 Water Street, Vancouver, V6B 1A1, Vancouver, Canada","MoMo Sushi, 375, Water Street, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B 5C6, Canada",49.2847089,-123.110228
+The Americas,Canada,British Columbia,Vancouver,"375 Water Street, Suite 250,, Vancouver, V6B 5C6","375 Water Street, Suite 250,, Vancouver, V6B 5C6, Vancouver, Canada",,,
+The Americas,Canada,British Columbia,Victoria,"1175 Douglas St.6th Floor, Victoria, V8W 2E1","1175 Douglas St.6th Floor, Victoria, V8W 2E1, Victoria, Canada",,,
+The Americas,Canada,Manitoba,Manitoba,"317 Donald Street-Suite 200, Winnipeg, R3B 2H6","317 Donald Street-Suite 200, Winnipeg, R3B 2H6, Manitoba, Canada",,,
+The Americas,Canada,New Brunswick,Fredericton,"30 Knowledge Park DriveSuite 300, Fredericton, E3C 2R2","30 Knowledge Park DriveSuite 300, Fredericton, E3C 2R2, Fredericton, Canada",,,
+The Americas,Canada,New Brunswick,Moncton,"12 Millennium BlvdSuite 210, Moncton, E1C 0M3","12 Millennium BlvdSuite 210, Moncton, E1C 0M3, Moncton, Canada",,,
+The Americas,Canada,Newfoundland and Labrador,Newfoundland,"277-281 Water Street-Mezzanine Level, St-John's NFLD, A1C 6L3","277-281 Water Street-Mezzanine Level, St-John's NFLD, A1C 6L3, Newfoundland, Canada",,,
+The Americas,Canada,Nova Scotia,Halifax,"7071 Bayers RoadSuite 1007, Halifax, B3L 2C2","7071 Bayers RoadSuite 1007, Halifax, B3L 2C2, Halifax, Canada",,,
+The Americas,Canada,Ontario,Markham,"150 Commerce Valley Drive WestSuite 300, Markham, L3T 7Z3","150 Commerce Valley Drive WestSuite 300, Markham, L3T 7Z3, Markham, Canada",,,
+The Americas,Canada,Ontario,Mississauga,"7025 Langer DriveSuite 115, Mississauga, L5N 0E8","7025 Langer DriveSuite 115, Mississauga, L5N 0E8, Mississauga, Canada",,,
+The Americas,Canada,Ontario,Mississauga,"6820 Century Ave, Mississauga, L5N 2V8","6820 Century Ave, Mississauga, L5N 2V8, Mississauga, Canada","CGI, 6820, Century Avenue, Mississauga, Peel Region, Golden Horseshoe, Ontario, L5N 5Z2, Canada",43.601366,-79.7462167
+The Americas,Canada,Ontario,Ottawa,"55 Metcalfe StreetSuite 250, Ottawa, K1P 6L5","55 Metcalfe StreetSuite 250, Ottawa, K1P 6L5, Ottawa, Canada",,,
+The Americas,Canada,Ontario,Toronto,"250 Yonge StreetSuite 2000, Toronto, M5B 2L7","250 Yonge StreetSuite 2000, Toronto, M5B 2L7, Toronto, Canada",,,
+The Americas,Canada,Prince Edward Island,Stratford,"24 Stratford Road, Stratford, C1B 1T5","24 Stratford Road, Stratford, C1B 1T5, Stratford, Canada","24, Stratford Road, Southport, Stratford, Town of Stratford, Queens County, Prince Edward Island, C1B 1T5, Canada",46.227661,-63.101705
+The Americas,Canada,Quebec,Drummondville,"1506 Jean-Berchmans-Michaud Street, Drummondville, J2C 2Z5","1506 Jean-Berchmans-Michaud Street, Drummondville, J2C 2Z5, Drummondville, Canada",,,
+The Americas,Canada,Quebec,Gatineau,"85 Bellehumeur StreetSuite 260, Gatineau, J8T 1P8","85 Bellehumeur StreetSuite 260, Gatineau, J8T 1P8, Gatineau, Canada",,,
+The Americas,Canada,Quebec,Montréal - Crémazie,"1611 Crémazie Blvd East2nd Floor, Montréal, H2M 2P2","1611 Crémazie Blvd East2nd Floor, Montréal, H2M 2P2, Montréal - Crémazie, Canada",,,
+The Americas,Canada,Quebec,Montréal - Head office,"1350 René-Lévesque Blvd West20th floor, Montréal, H3G 1T4","1350 René-Lévesque Blvd West20th floor, Montréal, H3G 1T4, Montréal - Head office, Canada",,,
+The Americas,Canada,Quebec,Montréal,"3200, Rue Dickson, Montréal, H1N 2K1","3200, Rue Dickson, Montréal, H1N 2K1, Montréal, Canada","3200, Rue Dickson, Mercier-Ouest, Mercier, Mercier–Hochelaga-Maisonneuve, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H1N 1A5, Canada",45.572415,-73.5474913
+The Americas,Canada,Quebec,Québec,"410 Charest Blvd EastSuite 700, Québec, G1K 8G3","410 Charest Blvd EastSuite 700, Québec, G1K 8G3, Québec, Canada",,,
+The Americas,Canada,Quebec,Saguenay,"930 Jacques-Cartier St. East3rd Floor, Saguenay, G7H 7K9","930 Jacques-Cartier St. East3rd Floor, Saguenay, G7H 7K9, Saguenay, Canada",,,
+The Americas,Canada,Quebec,Shawinigan,"444, 5th de la Pointe Street,, Shawinigan, G9N 1E6","444, 5th de la Pointe Street,, Shawinigan, G9N 1E6, Shawinigan, Canada",,,
+The Americas,Canada,Quebec,Sherbrooke,"101 Abénaquis street, Sherbrooke, J1H 1H1","101 Abénaquis street, Sherbrooke, J1H 1H1, Sherbrooke, Canada",,,
+The Americas,Canada,Saskatchewan,Regina,"1900, Albert Street5th floor, Regina, S4P 4K8","1900, Albert Street5th floor, Regina, S4P 4K8, Regina, Canada",,,
+The Americas,Colombia,Distrito Capital de Bogotá,Bogotá,"Avenida Calle 26 #59-41, Office 505Cemsa Torre CCI Building 5, Bogotá, 111321","Avenida Calle 26 #59-41, Office 505Cemsa Torre CCI Building 5, Bogotá, 111321, Bogotá, Colombia",,,
+The Americas,Mexico,Ciudad de México,Ciudad de México,"Boulevard Manuel Ávila Camacho N184 - Piso 8 - Colonia Reforma Social, Ciudad de México, 11650","Boulevard Manuel Ávila Camacho N184 - Piso 8 - Colonia Reforma Social, Ciudad de México, 11650, Ciudad de México, Mexico",,,
+The Americas,United States,Alabama,Birmingham,"1900 International Park DriveSuite 400, Birmingham, 35243","1900 International Park DriveSuite 400, Birmingham, 35243, Birmingham, United States",,,
+The Americas,United States,Alabama,Huntsville,"4000 Market Street, Huntsville, 35808","4000 Market Street, Huntsville, 35808, Huntsville, United States","Market Street Southwest, Redstone Gateway, Huntsville, Madison County, Alabama, 35809, United States",34.6987272,-86.6736064
+The Americas,United States,Alabama,Mobile,"775 N. University BoulevardSuite 250, Mobile, 36608","775 N. University BoulevardSuite 250, Mobile, 36608, Mobile, United States",,,
+The Americas,United States,Alabama,Troy,"140 University Park, Troy, 36081","140 University Park, Troy, 36081, Troy, United States",,,
+The Americas,United States,Alaska,Juneau,"175 South Franklin StreetSuite 305, Juneau, 99801","175 South Franklin StreetSuite 305, Juneau, 99801, Juneau, United States",,,
+The Americas,United States,Arizona,Tucson,"7333 E Rosewood ST, Tucson, 85710","7333 E Rosewood ST, Tucson, 85710, Tucson, United States","7333, East Rosewood Street, Broadway Northeast, Tucson, Pima County, Arizona, 85710, United States",32.2327227,-110.8368068
+The Americas,United States,Arkansas,Hot Springs,"191 Office Park DR, Hot Springs, 71913","191 Office Park DR, Hot Springs, 71913, Hot Springs, United States",,,
+The Americas,United States,California,Los Angeles,"350 South Grand AvenueSuite 3570, Los Angeles, 90071","350 South Grand AvenueSuite 3570, Los Angeles, 90071, Los Angeles, United States",,,
+The Americas,United States,California,Sacramento,"400 Capitol MallSuite 1500, Sacramento, 95814","400 Capitol MallSuite 1500, Sacramento, 95814, Sacramento, United States",,,
+The Americas,United States,California,San Diego,"2878 Camino Del Rio SouthSuite 500, San Diego, 92108","2878 Camino Del Rio SouthSuite 500, San Diego, 92108, San Diego, United States",,,
+The Americas,United States,California,San Francisco,"345 California StreetSuite 600 & 700, San Francisco, 94104","345 California StreetSuite 600 & 700, San Francisco, 94104, San Francisco, United States",,,
+The Americas,United States,California,Walnut Creek,"1550 Parkside DriveSuite 150, Walnut Creek, 94596","1550 Parkside DriveSuite 150, Walnut Creek, 94596, Walnut Creek, United States",,,
+The Americas,United States,Colorado,Greenwood Village,"5575 DTC ParkwaySuite 135, Greenwood Village, 80111","5575 DTC ParkwaySuite 135, Greenwood Village, 80111, Greenwood Village, United States",,,
+The Americas,United States,Connecticut,Hartford,"One American Row, Suite 403, Hartford, 06102-5056","One American Row, Suite 403, Hartford, 06102-5056, Hartford, United States",,,
+The Americas,United States,Florida,Jacksonville,"1250 Imeson Park Blvd.Suite 504, Jacksonville, 32218","1250 Imeson Park Blvd.Suite 504, Jacksonville, 32218, Jacksonville, United States",,,
+The Americas,United States,Florida,Miami Lakes,"8100 Oak LaneSuite 301, Miami Lakes, 33016","8100 Oak LaneSuite 301, Miami Lakes, 33016, Miami Lakes, United States",,,
+The Americas,United States,Florida,Orange Park,"85 Industrial Loop N, Orange Park, 32073","85 Industrial Loop N, Orange Park, 32073, Orange Park, United States",,,
+The Americas,United States,Florida,Tampa,"4300 West CypressSuite 300, Tampa, 33607","4300 West CypressSuite 300, Tampa, 33607, Tampa, United States",,,
+The Americas,United States,Georgia,Atlanta,"945 East Paces Ferry RoadSuite 2600, Atlanta, 30326","945 East Paces Ferry RoadSuite 2600, Atlanta, 30326, Atlanta, United States",,,
+The Americas,United States,Hawaii,Honolulu,"715 South King StreetSuite 200, Honolulu, 96813","715 South King StreetSuite 200, Honolulu, 96813, Honolulu, United States",,,
+The Americas,United States,Illinois,Chicago,"171 N AberdeenSuite 400, Chicago, 60607","171 N AberdeenSuite 400, Chicago, 60607, Chicago, United States",,,
+The Americas,United States,Illinois,Chicago,"1 Tower Ln, Suite 200, Oakbrook Terrace, 60181","1 Tower Ln, Suite 200, Oakbrook Terrace, 60181, Chicago, United States",,,
+The Americas,United States,Kentucky,Frankfort,"229 West Main StreetSuite 204, Frankfort, 40601","229 West Main StreetSuite 204, Frankfort, 40601, Frankfort, United States",,,
+The Americas,United States,Louisiana,Lafayette,"102 Versailles Boulevard, Lafayette, 70501","102 Versailles Boulevard, Lafayette, 70501, Lafayette, United States","102, Versailles Boulevard, Lafayette, Lafayette Parish, Louisiana, 70501, United States",30.225122,-92.0234734
+The Americas,United States,Louisiana,Lafayette,"538 Cajundome Boulevard, Lafayette, 70506","538 Cajundome Boulevard, Lafayette, 70506, Lafayette, United States","Cajundome Boulevard, Lafayette, Lafayette Parish, Louisiana, 70598, United States",30.223318,-92.0446435
+The Americas,United States,Maryland,Baltimore,"3120 Lord Baltimore Drive, Baltimore, 21244","3120 Lord Baltimore Drive, Baltimore, 21244, Baltimore, United States","3120, Lord Baltimore Drive, Liberty Gardens Apartments, Milford Mill, Baltimore County, Maryland, 21244, United States",39.3418789,-76.7511093
+The Americas,United States,Massachusetts,Boston,"100 Summer StreetSuite 1600, Boston, 02110","100 Summer StreetSuite 1600, Boston, 02110, Boston, United States",,,
+The Americas,United States,Massachusetts,Burlington,"78 Blanchard RoadSuite 300, Burlington, 01803","78 Blanchard RoadSuite 300, Burlington, 01803, Burlington, United States",,,
+The Americas,United States,Minnesota,Minneapolis,"8500 Normandale Lake BlvdSuite 1400, Bloomington, 55437","8500 Normandale Lake BlvdSuite 1400, Bloomington, 55437, Minneapolis, United States",,,
+The Americas,United States,Missouri,St. Louis,"3 Cityplace Drive, 11th Floor, Creve Coeur, 63141","3 Cityplace Drive, 11th Floor, Creve Coeur, 63141, St. Louis, United States",,,
+The Americas,United States,Nevada,Henderson,"303 Water StreetSuite 200, Henderson, 89015","303 Water StreetSuite 200, Henderson, 89015, Henderson, United States",,,
+The Americas,United States,Nevada,Reno,"1 East Liberty StreetSuite 601, Reno, 89501","1 East Liberty StreetSuite 601, Reno, 89501, Reno, United States",,,
+The Americas,United States,New Jersey,New Brunswick,"120 Albany Street7th Floor, New Brunswick, 08901","120 Albany Street7th Floor, New Brunswick, 08901, New Brunswick, United States",,,
+The Americas,United States,New York,Albany,"3 Lear Jet LaneSuite 205, Latham, 12110","3 Lear Jet LaneSuite 205, Latham, 12110, Albany, United States",,,
+The Americas,United States,New York,New York,"33 Whitehall Street15th Floor, New York, 10004","33 Whitehall Street15th Floor, New York, 10004, New York, United States",,,
+The Americas,United States,New York,New York,"80 Broad Street, 5th FloorSuite 503, New York, 10004","80 Broad Street, 5th FloorSuite 503, New York, 10004, New York, United States",,,
+The Americas,United States,New York,New York,"115 BroadwaySuite 1501, New York, 10006","115 BroadwaySuite 1501, New York, 10006, New York, United States",,,
+The Americas,United States,North Carolina,Raleigh,"5000 CentreGreen Way, Suite 175, Cary, 27513","5000 CentreGreen Way, Suite 175, Cary, 27513, Raleigh, United States",,,
+The Americas,United States,North Carolina,Charlotte,"3426 Toringdon WaySuite 405, Charlotte, 28277-3496","3426 Toringdon WaySuite 405, Charlotte, 28277-3496, Charlotte, United States",,,
+The Americas,United States,Ohio,Cleveland,"1100 Superior Avenue EastSuite 200, Cleveland, 44114","1100 Superior Avenue EastSuite 200, Cleveland, 44114, Cleveland, United States",,,
+The Americas,United States,Ohio,Columbus,"107 South High StreetSuite 200, Columbus, 43215","107 South High StreetSuite 200, Columbus, 43215, Columbus, United States",,,
+The Americas,United States,Ohio,Cleveland,"17406 Royalton RdSuite A 102, Strongsville, 44136","17406 Royalton RdSuite A 102, Strongsville, 44136, Cleveland, United States",,,
+The Americas,United States,Ohio,Columbus,"570 Polaris ParkwaySuite 200, Westerville, 43082","570 Polaris ParkwaySuite 200, Westerville, 43082, Columbus, United States",,,
+The Americas,United States,Oklahoma,Lawton,"3120 NW Atlanta Ave, Lawton, 73505","3120 NW Atlanta Ave, Lawton, 73505, Lawton, United States","3120, Northwest Atlanta Avenue, Lawton, Comanche County, Oklahoma, 73505, United States",34.625263,-98.4320098
+The Americas,United States,Pennsylvania,Pittsburgh,"611 William Penn PlaceSuite 1200, Pittsburgh, 15219","611 William Penn PlaceSuite 1200, Pittsburgh, 15219, Pittsburgh, United States",,,
+The Americas,United States,Pennsylvania,Plymouth Meeting,"401 Plymouth RoadSuite 160, Plymouth Meeting, 19462","401 Plymouth RoadSuite 160, Plymouth Meeting, 19462, Plymouth Meeting, United States",,,
+The Americas,United States,Puerto Rico,San Juan,"B7 Tabonuco StreetSuite 401, Guaynabo, 00968","B7 Tabonuco StreetSuite 401, Guaynabo, 00968, San Juan, United States",,,
+The Americas,United States,South Carolina,Columbia,"250 Berryhill RoadSuite 205, Columbia, 29210","250 Berryhill RoadSuite 205, Columbia, 29210, Columbia, United States",,,
+The Americas,United States,South Carolina,North Charleston,"1101 Remount RoadSuite 300, North Charleston, 29406","1101 Remount RoadSuite 300, North Charleston, 29406, North Charleston, United States",,,
+The Americas,United States,Tennessee,Chattanooga,"1110 Market StreetSuite 418, Chattanooga, 37402","1110 Market StreetSuite 418, Chattanooga, 37402, Chattanooga, United States",,,
+The Americas,United States,Tennessee,Franklin,"6640 Carothers PkwySuite 400, Franklin, 37067","6640 Carothers PkwySuite 400, Franklin, 37067, Franklin, United States",,,
+The Americas,United States,Tennessee,"CGI Knoxville, Riverview Tower","900 S Gay StreetSuite 1000, Knoxville, 37902","900 S Gay StreetSuite 1000, Knoxville, 37902, CGI Knoxville, Riverview Tower, United States",,,
+The Americas,United States,Tennessee,Nashville,"2630 Elm Hill PikeSuite 115, Nashville, 37214","2630 Elm Hill PikeSuite 115, Nashville, 37214, Nashville, United States",,,
+The Americas,United States,Texas,Austin,"5113 Southwest ParkwaySuite 230, Austin, 78735","5113 Southwest ParkwaySuite 230, Austin, 78735, Austin, United States",,,
+The Americas,United States,Texas,Austin,"2500 Bee Caves RoadBuilding III, Suite 100, Austin, 78746","2500 Bee Caves RoadBuilding III, Suite 100, Austin, 78746, Austin, United States",,,
+The Americas,United States,Texas,Belton,"2100 Digby Drive, Belton, 76513","2100 Digby Drive, Belton, 76513, Belton, United States","2100, Digby Drive, Belton, Bell County, Texas, 76513, United States",31.053838,-97.489384
+The Americas,United States,Texas,Dallas,"14800 Landmark BoulevardSuite 300, Dallas, 75254","14800 Landmark BoulevardSuite 300, Dallas, 75254, Dallas, United States",,,
+The Americas,United States,Texas,Fort Worth,"801 Cherry StreetSuite 1155, Fort Worth, 76102","801 Cherry StreetSuite 1155, Fort Worth, 76102, Fort Worth, United States",,,
+The Americas,United States,Texas,Houston,"3700 West Sam Houston Parkway SouthSuite 575, Houston, 77042","3700 West Sam Houston Parkway SouthSuite 575, Houston, 77042, Houston, United States",,,
+The Americas,United States,Texas,San Antonio,"5555 Northwest ParkwaySuite 143, San Antonio, 78249","5555 Northwest ParkwaySuite 143, San Antonio, 78249, San Antonio, United States",,,
+The Americas,United States,Utah,Lehi,"2701 North Thanksgiving WaySuite 100, Lehi, 84043","2701 North Thanksgiving WaySuite 100, Lehi, 84043, Lehi, United States",,,
+The Americas,United States,Virginia,Arlington,"1000 North Glebe Road, Arlington, 22201","1000 North Glebe Road, Arlington, 22201, Arlington, United States","Ballston Center, 1000, North Glebe Road, Bluemont, Ballston, Arlington County, Virginia, 22201, United States",38.882369,-77.1167728
+The Americas,United States,Virginia,Fairfax,"11325 Random Hills Road8th Floor, Fairfax, 22030","11325 Random Hills Road8th Floor, Fairfax, 22030, Fairfax, United States",,,
+The Americas,United States,Virginia,Fairfax,"12601 Fair Lakes Circle, Fairfax, 22033","12601 Fair Lakes Circle, Fairfax, 22033, Fairfax, United States","12601 Parking Deck, 12601, Fair Lakes Circle, Fair Lakes, Fairfax County, Virginia, 22033, United States",38.8571042,-77.3818427
+The Americas,United States,Virginia,Lebanon,"295 Technology Park Drive, Lebanon, 24266","295 Technology Park Drive, Lebanon, 24266, Lebanon, United States","CGI, 295, Technology Park Drive, Lebanon, Russell County, Virginia, 24266, United States",36.9044451,-82.074833
+The Americas,United States,Virginia,Richmond,"1111 East Main StreetSuite 615, Richmond, 23219","1111 East Main StreetSuite 615, Richmond, 23219, Richmond, United States",,,
+The Americas,United States,Washington,Bellevue,"500 108th Avenue NE,Suite 1100, Bellevue, 98004","500 108th Avenue NE,Suite 1100, Bellevue, 98004, Bellevue, United States",,,
+The Americas,United States,Wisconsin,Madison,"25 West Main Street5th Floor, Madison, 53703","25 West Main Street5th Floor, Madison, 53703, Madison, United States",,,
+The Americas,United States,Wisconsin,Wausau,"500 North 3rd StreetSuite 210, Wausau, 54403","500 North 3rd StreetSuite 210, Wausau, 54403, Wausau, United States",,,
