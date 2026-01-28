@@ -177,13 +177,7 @@ def main():
                     "type": "Feature",
                     "geometry": geometry,
                     "properties": {
-                        "name": office["name"],
-                        "address": office["full_address"],
                         "city": office["city"],
-                        "postal_code": office["postal_code"],
-                        "geocoding_source": match.get("properties", {}).get(
-                            "source", "navici"
-                        ),
                     },
                 }
                 features.append(feature)
