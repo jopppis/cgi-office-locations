@@ -1,0 +1,287 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:3067"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          378141,
+          6672401
+        ]
+      },
+      "properties": {
+        "name": "Espoo",
+        "address": "Revontulenkuja 1, 02100 Espoo",
+        "city": "Espoo",
+        "postal_code": "02100",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          363524,
+          6762746
+        ]
+      },
+      "properties": {
+        "name": "Hämeenlinna",
+        "address": "Vankanlähde 7, 13100 Hämeenlinna",
+        "city": "Hämeenlinna",
+        "postal_code": "13100",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          382669,
+          6677314
+        ]
+      },
+      "properties": {
+        "name": "Helsinki - Karvaamokuja",
+        "address": "Karvaamokuja 2, 00380 Helsinki",
+        "city": "Helsinki",
+        "postal_code": "00380",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          386862,
+          6674422
+        ]
+      },
+      "properties": {
+        "name": "Helsinki - Päijänteentie",
+        "address": "Päijänteentie 14 A, 00510 Helsinki",
+        "city": "Helsinki",
+        "postal_code": "00510",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          640910.134693281,
+          6943864.342814498
+        ]
+      },
+      "properties": {
+        "name": "Joensuu",
+        "address": "Länsikatu 15, 80101 Joensuu",
+        "city": "Joensuu",
+        "postal_code": "80101",
+        "geocoding_source": "digiroadAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          434694,
+          6900128
+        ]
+      },
+      "properties": {
+        "name": "Jyväskylä",
+        "address": "Ohjelmakaari 10, 40500 Jyväskylä",
+        "city": "Jyväskylä",
+        "postal_code": "40500",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          531910.913241021,
+          6973394.52650764
+        ]
+      },
+      "properties": {
+        "name": "Kuopio",
+        "address": "Microkatu 1, 70211 Kuopio",
+        "city": "Kuopio",
+        "postal_code": "70211",
+        "geocoding_source": "digiroadAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          428011,
+          6760881
+        ]
+      },
+      "properties": {
+        "name": "Lahti",
+        "address": "Askonkatu 9 G, 15100 Lahti",
+        "city": "Lahti",
+        "postal_code": "15100",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          564240,
+          6769545
+        ]
+      },
+      "properties": {
+        "name": "Lappeenranta",
+        "address": "Kauppakatu 40 D, 53100 Lappeenranta",
+        "city": "Lappeenranta",
+        "postal_code": "53100",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          426641,
+          7215992
+        ]
+      },
+      "properties": {
+        "name": "Oulu",
+        "address": "Elektroniikkatie 6, 90590 Oulu",
+        "city": "Oulu",
+        "postal_code": "90590",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          328374,
+          6822853
+        ]
+      },
+      "properties": {
+        "name": "Tampere",
+        "address": "Peltokatu 34 B, 33100 Tampere",
+        "city": "Tampere",
+        "postal_code": "33100",
+        "geocoding_source": "vrkAddress"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "crs": {
+          "type": "name",
+          "properties": {
+            "name": "EPSG:3067"
+          }
+        },
+        "coordinates": [
+          241252,
+          6710777
+        ]
+      },
+      "properties": {
+        "name": "Turku",
+        "address": "Joukahaisenkatu 1, 20520 Turku",
+        "city": "Turku",
+        "postal_code": "20520",
+        "geocoding_source": "vrkAddress"
+      }
+    }
+  ]
+}
